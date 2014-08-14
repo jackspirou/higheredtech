@@ -1,0 +1,40 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+}
+body {
+  background-image: url('http://turbo.designwoop.com/uploads/2012/03/10_free_subtle_textures_seamless_photoshop_grid_patterns.jpg');
+  background-repeat: repeat;
+}
+.roboto {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+.openSans {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+}
+.banner {
+  width: 100%;
+  position: relative;
+  margin-bottom: 25px;
+}
+.logo {
+  width: 125px;
+}
+.navbar {
+  padding: 15px;
+}
+.navbar-toggle {
+  margin-right: 0;
+  margin-top: 5px;
+}
+.tech-opacity {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.background-color {
+  background-color: #ffffff;
+}
+.page-header h1 small {
+  color: #428bca;
+}
