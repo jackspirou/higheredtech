@@ -27,7 +27,7 @@
 				<li>Georgia College & State University</li>
 				<li><a href='#'>Larbi.Oukada@gcsu.edu</a></li>
 			</ul>
- 
+
 <ul class="list-unstyled">
 <li><strong>Costas Spirou, Conference Co-Chair</strong></li>
 <li>Professor and Chair</li>
@@ -35,22 +35,30 @@
 <li>Georgia College & State University</li>
 <li><a href='#'>Costas.Spirou@gcsu.edu</a></li>
 </ul>
- 
- <ul class="list-unstyled">
+
+<ul class="list-unstyled">
 <li><strong>Aran MacKinnon, Conference Program Chair</strong></li>
 <li>Professor and Chair</li>
 <li>Department of History and Geography</li>
 <li>Georgia College & State University</li>
 <li><a href='#'>Aran.Mackinnon@gcsu.edu</a></li>
 </ul>
- 
+
+<ul class="list-unstyled">
+<li><strong>Olufunke Fontenot</strong></li>
+<li>Interim Dean & Professor</li>
+<li>John H. Lounsbury College of Education</li>
+<li>Georgia College & State University</li>
+<li><a href='#'>funke.fontenot@gcsu.edu</a></li>
+</ul>
+
  <ul class="list-unstyled">
 <li><strong>Gonegai Abdelkader</strong> </li>
 <li>Professor and Dean</li>
 <li>Université Hassan II Casablanca</li>
 <li><a href='#'>agonegai@hotmail.com</a></li>
 </ul>
- 
+
 <ul class="list-unstyled">
 <li><strong>Nancy Nordmann</strong></li>
 <li>Professor</li>
