@@ -17,7 +17,7 @@
 
 		<div class="page-header text-center">
 
-			<h1>Conference Location <br ><small>Marakech, Morocco</small></h1>
+			<h1>Conference Location <br ><small>Marrakech, Morocco</small></h1>
 
 		</div>
 
@@ -91,7 +91,7 @@
 				<p>Like many Moroccan cities, <strong>Marrakech</strong> has its <strong><em>Medina</em></strong>, the old district surrounded by massive walls with several gates (<strong>babs</strong>). Two main entrances to <strong>Medina</strong> are behind the famous <strong>Jamaa al Fna</strong> square; and once you get in, you will discover what it is arguably Morocco’s largest and most renowned <strong>souk</strong>, literally thousands of merchants scattered along a labyrinth of narrow and congested allies. The <strong>Marrakech</strong> souk is essentially a life museum exhibiting Morocco’s cultural heritage. Anything that is made by hand and by local artisans, you’ll find it there and for a good price! But you need t engage in the local commercial culture, bartering.</p>
 			</div>
 		</div>
-		
+
 		<ul>
   			<li><h4><em>Koutoubia Mosque</em></h4></li>
 		</ul>
@@ -103,7 +103,7 @@
 				<p>Also located near the <strong>Jamaa al Fna</strong> square, the <strong>Koutoubia Mosque</strong> is the largest mosque in Marrakech. Its construction began shortly after the <strong>Almohad</strong> conquest of Marrakesh around 1150. The mosque was built on the site of an 11th-century <strong>Almoravid</strong> mosque and was completed during the reign of the <strong>Almohad</strong> Sultan <strong>Yacoub el Mansour</strong> (1184-99). Its minaret is the oldest of the three great <strong>Almohad</strong> minarets remaining in the North Africa. The name <strong>Koutoubia</strong> comes from the Arabic word for “books” (<strong>koutoub</strong>) since the mosque location was adjacent to a nearby book market.</p>
 			</div>
 		</div>
-		
+
 		<ul>
   			<li><h4><em>Bahia Palace</em></h4></li>
 		</ul>
@@ -115,7 +115,7 @@
 				<p>A palace built in the late 19th century (between 1894 and 1900) <strong>Si Moussa</strong>, the son of a powerful aid to the <strong>King Muhammad IV</strong>, who wanted to build an astonishing living quarter in <strong>Marrakech</strong> inspired by Moroccan and Islamic architecture. <strong>Si Moussa</strong> commissioned the construction of the palace and named it after one of his wives, <strong>Bahia</strong>, which fittingly means in Arabic “Brilliance.”</p>
 			</div>
 		</div>
-		
+
 		<ul>
   			<li><h4><em>Menara Gardens</em></h4></li>
 		</ul>

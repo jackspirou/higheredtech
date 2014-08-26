@@ -101,6 +101,8 @@
                                         <ul class="dropdown-menu">
                                             <li><a href="http://www.elandalous-marrakech.com/html/en-conference.php">Conference Site</a></li>
                                             {{ HTML::nav_link_a_route('location', 'About Marrakech' ) }}
+                                            <li><a href="https://onedrive.live.com/view.aspx?Bsrc=Share&Bpub=SDX.SkyDrive&resid=6607C8711C191A28!406&cid=6607c8711c191a28&app=Word&authkey=!AuaEHOGTPqSjqEw">Morocco History</a></li>
+                                            <li><a href="https://onedrive.live.com/view.aspx?Bsrc=Share&Bpub=SDX.SkyDrive&resid=6607C8711C191A28!682&cid=6607c8711c191a28&app=Word&authkey=!AuaEHOGTPqSjqEw">Traveling Suggestions</a></li>
                                             {{ HTML::nav_link_a_route('tours', 'Marrakech Tours' ) }}
                                         </ul>
                                 </li>
