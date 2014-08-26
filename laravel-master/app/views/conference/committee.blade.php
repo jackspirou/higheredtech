@@ -46,7 +46,7 @@
 
 <ul class="list-unstyled">
 <li><strong>Olufunke Fontenot</strong></li>
-<li>Interim Dean & Professor</li>
+<li>Interim Dean and Professor</li>
 <li>John H. Lounsbury College of Education</li>
 <li>Georgia College & State University</li>
 <li><a href='#'>funke.fontenot@gcsu.edu</a></li>
