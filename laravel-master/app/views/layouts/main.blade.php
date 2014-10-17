@@ -84,7 +84,7 @@
                                         {{ HTML::nav_link_a_route('leadershipInstitute', 'Leadership Institute' ) }}
                                         {{ HTML::nav_link_a_route('keyDates', 'Key Dates' ) }}
                                         {{ HTML::nav_link_a_route('registrationFees', 'Registration Fee' ) }}
-                                        <li><a href="http://www.elandalous-marrakech.com/html/en-index.php">Accommodations</a></li>
+                                        <li><a target="_blank" href="http://www.elandalous-marrakech.com/html/en-index.php">Accommodations</a></li>
                                         {{ HTML::nav_link_a_route('postConferenceActivities', 'Post Conference Activities' ) }}
                                     </ul>
                             </li>
@@ -99,11 +99,11 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Location <b class="caret"></b></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="http://www.elandalous-marrakech.com/html/en-conference.php">Conference Site</a></li>
+                                            <li><a target="_blank" href="http://www.elandalous-marrakech.com/html/en-conference.php">Conference Site</a></li>
                                             {{ HTML::nav_link_a_route('location', 'About Marrakech' ) }}
-                                            <li><a href="https://onedrive.live.com/view.aspx?Bsrc=Share&Bpub=SDX.SkyDrive&resid=6607C8711C191A28!406&cid=6607c8711c191a28&app=Word&authkey=!AuaEHOGTPqSjqEw">Morocco History</a></li>
+                                            <li><a target="_blank" href="https://onedrive.live.com/view.aspx?Bsrc=Share&Bpub=SDX.SkyDrive&resid=6607C8711C191A28!406&cid=6607c8711c191a28&app=Word&authkey=!AuaEHOGTPqSjqEw">Morocco History</a></li>
                                             {{ HTML::nav_link_a_route('tours', 'Marrakech Tours' ) }}
-                                            <li><a href="https://onedrive.live.com/view.aspx?Bsrc=Share&Bpub=SDX.SkyDrive&resid=6607C8711C191A28!682&cid=6607c8711c191a28&app=Word&authkey=!AuaEHOGTPqSjqEw">Traveling Suggestions</a></li>
+                                            <li><a target="_blank" href="https://onedrive.live.com/view.aspx?Bsrc=Share&Bpub=SDX.SkyDrive&resid=6607C8711C191A28!682&cid=6607c8711c191a28&app=Word&authkey=!AuaEHOGTPqSjqEw">Traveling Suggestions</a></li>
                                         </ul>
                                 </li>
                                 <li><a href="">Program</a></li>
@@ -121,7 +121,7 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Location <b class="caret"></b></a>
                                         <ul class="dropdown-menu">
-                                           <li><a href="http://www.elandalous-marrakech.com/html/en-conference.php">Conference Site</a></li>
+                                           <li><a target="_blank" href="http://www.elandalous-marrakech.com/html/en-conference.php">Conference Site</a></li>
                                             {{ HTML::nav_link_a_route('location', 'About Marrakech' ) }}
                                         </ul>
                                 </li>
