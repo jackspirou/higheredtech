@@ -31,7 +31,7 @@
 	height: 100%;
 }
 
-.carousel-caption { 
+.carousel-caption {
 	background: -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%); /* FF3.6+ */
 	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(0,0,0,0.65)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
 	background: -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
@@ -133,7 +133,7 @@
 		<div class="row text-center">
 			<div class="col-lg-6">
 				<div class="panel panel-default">
-					<div style="min-height: 300px;"class="panel-body">
+					<div style="min-height: 350px;"class="panel-body">
 						<i class="icon-road icon-4x"></i>
 						<h2>About The Global Forum</h2>
 						The Global Forum On Technology in Higher Education seeks to connect and support a worldwide network of faculty and academic leaders as they engage in managing the challenges of applying technology to higher education...
@@ -143,7 +143,25 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="panel panel-default">
-					<div style="min-height: 300px;" class="panel-body">
+					<div style="min-height: 350px;" class="panel-body">
+						<a href="https://twitter.com/HighrEdTech"><i class="icon-twitter icon-4x"></i></a>
+						<a class="twitter-timeline" href="https://twitter.com/HighrEdTech" data-widget-id="531594007709634561">Tweets by @HighrEdTech</a>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-6">
+				<div class="panel panel-default">
+					<div style="min-height: 350px;"class="panel-body">
+						<a href="https://www.facebook.com/pages/International-Conference-on-Technology-in-Higher-Education/1578486185706504"><i class="icon-facebook icon-4x"></i></a>
+						<div class="fb-like-box" data-href="https://www.facebook.com/pages/International-Conference-on-Technology-in-Higher-Education/1578486185706504" data-width="520px" data-height="250px" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="true" data-show-border="false"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="panel panel-default">
+					<div style="min-height: 350px;" class="panel-body">
 						<i class="icon-power-off icon-4x"></i>
 						<h2>Post Conference Activities</h2>
 						Leadership Institute participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Three additional excursions are provided to those who want to gain a deeper understating of Moroccan culture and society.  For more information...
@@ -156,4 +174,13 @@
 	</div>
 
 </div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=328713703826884&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 @stop

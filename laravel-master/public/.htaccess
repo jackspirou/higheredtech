@@ -210,14 +210,30 @@ AddDefaultCharset utf-8
 # http://www.rackspace.com/knowledge_center/frequently-asked-question/why-is-mod-rewrite-not-working-on-my-site
 
 <IfModule mod_rewrite.c>
-    Options +FollowSymlinks
-  # Options +SymLinksIfOwnerMatch
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
     RewriteEngine On
-    RewriteBase /
-	RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Redirect Trailing Slashes...
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 </IfModule>
+
+#<IfModule mod_rewrite.c>
+#    Options +FollowSymlinks
+  # Options +SymLinksIfOwnerMatch
+#    RewriteEngine On
+#    RewriteBase /
+#	RewriteCond %{REQUEST_FILENAME} !-d
+#    RewriteCond %{REQUEST_FILENAME} !-f
+#    RewriteRule ^ index.php [L]
+#</IfModule>
 
 # ------------------------------------------------------------------------------
 # | Suppressing / Forcing the "www." at the beginning of URLs                  |
@@ -305,11 +321,11 @@ AddDefaultCharset utf-8
 # Block access to hidden files and directories.
 # This includes directories used by version control systems such as Git and SVN.
 
-<IfModule mod_rewrite.c>
-    RewriteCond %{SCRIPT_FILENAME} -d [OR]
-    RewriteCond %{SCRIPT_FILENAME} -f
-    RewriteRule "(^|/)\." - [F]
-</IfModule>
+#<IfModule mod_rewrite.c>
+#    RewriteCond %{SCRIPT_FILENAME} -d [OR]
+#    RewriteCond %{SCRIPT_FILENAME} -f
+#    RewriteRule "(^|/)\." - [F]
+#</IfModule>
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
