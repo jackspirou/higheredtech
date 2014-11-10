@@ -22,7 +22,7 @@ class HomeController extends BaseController {
 	public function index() {
 
 		// Set Page Title
-		$title = "Higher Ed TECH";
+		$title = "Higher Education Technology Conference";
 
 		// Set View Data
 		$data = array(

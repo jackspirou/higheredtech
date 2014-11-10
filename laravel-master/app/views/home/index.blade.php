@@ -136,7 +136,11 @@
 					<div style="min-height: 350px;"class="panel-body">
 						<i class="icon-road icon-4x"></i>
 						<h2>About The Global Forum</h2>
-						The Global Forum On Technology in Higher Education seeks to connect and support a worldwide network of faculty and academic leaders as they engage in managing the challenges of applying technology to higher education...
+						<br />
+						<p>
+							The Global Forum On Technology in Higher Education seeks to connect and support a worldwide network of faculty and academic leaders as they engage in managing the challenges of applying technology to higher education...
+						</p>
+						<br />
 						<p><a class="btn btn-primary" href="{{ route('theGlobalForum') }}">View details &raquo;</a></p>
 					</div>
 				</div>
@@ -164,7 +168,11 @@
 					<div style="min-height: 350px;" class="panel-body">
 						<i class="icon-power-off icon-4x"></i>
 						<h2>Post Conference Activities</h2>
-						Leadership Institute participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Three additional excursions are provided to those who want to gain a deeper understating of Moroccan culture and society.  For more information...
+						<br />
+						<p>
+							Leadership Institute participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Three additional excursions are provided to those who want to gain a deeper understating of Moroccan culture and society.  For more information...
+						</p>
+						<br />
 						<p><a class="btn btn-primary" href="{{ route('postConferenceActivities') }}">View details &raquo;</a></p>
 					</div>
 				</div>
