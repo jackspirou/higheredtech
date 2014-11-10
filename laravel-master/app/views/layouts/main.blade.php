@@ -62,6 +62,9 @@
           <div style="margin-top: 30px; margin-left: 25px;">
             <h2 class="roboto"><strong>International Conference on Technology in Higher Education</strong></h2>
             <h4><em><a href="{{ route('theGlobalForum') }}">The Global Forum on Technology in Higher Education</a> in Collaboration with <a href="http://www.uh2c.ac.ma/">Hassan II University</a></em> <br > <small>June 14-17, 2015</small></h4>
+
+            <a href="https://twitter.com/HighrEdTech"><i class="icon-twitter icon-2x"></i></a>
+            <a href="https://www.facebook.com/pages/International-Conference-on-Technology-in-Higher-Education/1578486185706504"><i class="icon-facebook icon-2x"></i></a>
           </div>
         </div>
       </div>
