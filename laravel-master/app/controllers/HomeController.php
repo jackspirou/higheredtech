@@ -104,7 +104,7 @@ class HomeController extends BaseController {
 			'title' => 'title'
 		);
 
-		mail('jack.spirou@me.com', Input::get('subject'), Input::get('message'), "CC: ".Input::get('email'));
+		mail('costas.spirou@gcsu.edu', Input::get('subject'), Input::get('message'), "CC: ".Input::get('email'));
 
 /*
 		Mail::send('email.contact', $data, function($message) {
