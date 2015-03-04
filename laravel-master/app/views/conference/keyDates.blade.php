@@ -19,7 +19,7 @@
 
 		<table class="table table-striped">
 				<tr>
-					<td><strong>March 1, 2015</strong></td>
+					<td><strong>March 1, 2015 (extended to April 1, 2015)</strong></td>
 					<td>All Presentation Proposals MUST be submitted</td>
 				</tr>
 				<tr>
