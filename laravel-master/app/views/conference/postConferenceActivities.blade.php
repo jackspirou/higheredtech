@@ -13,116 +13,22 @@
 
 		<div class="page-header text-center">
 
-			<h1>Post Conference Activites <br ><small>Three potential excursions...</small></h1>
+			<h1>Post Conference Activites <br ><small>Two potential excursions...</small></h1>
 
 		</div>
 
 		<img class="banner hidden-xs" src="{{ asset('assets/img/banners/adventure.jpg') }}" >
 
-		<p class="lead">Conference participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Three additional excursions are provided to those who want to gain a deeper understating of Moroccan culture and society.</p>
+		<p class="lead">Conference participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Two additional excursions are provided to those who want to gain a deeper understating of Moroccan culture and society.</p>
 
 		<ol>
-  			<li><a href="#ZAGORA">MARRAKECH – OUARZAZETE – ZAGORA</a></li>
   			<li><a href="#AGADIR">MARRAKECH – AESSAOUIRA – AGADIR</a></li>
   			<li><a href="#FEZ">MARRAKECH – RABAT – FEZ</a></li>
 		</ol>
 
 		<br />
 
-		<h2 id="ZAGORA">1. Marrakech - Quarzazete - Zagora</h2>
-		<h3>Details:</h3>
-		<ul>
-  			<li><strong>Duration:</strong> Three Day Trip</li>
-  			<li><strong>Route:</strong> Southwest Morocco: The route of the 1000 Kasbahs</li>
-  			<li><strong>Locations:</strong> MARRAKECH – OUARZAZETE – ZAGORA</li>
-  			<li><strong>Cost:</strong> COST: $550 (USD)</li>
-		</ul>
-		<h3>Schedule:</h3>
-		<h4>Day 1 <small>June 18th, MARRAKECH – OUARZAZETE</small></h4>
-		<div class="container">
-			<dl class="dl-horizontal">
-				<dt>Prior 7:30 am: </dt>
-				<dd>Complementary breakfast at the hotel</dd>
-				<dt>7:30 am: </dt>
-				<dd>Departure <strong>AÏT BEN HADDOU</strong></dd>
-				<dt>Mid-day:</dt>
-				<dd>Lunch in <strong>AÏT BEN HADDOU</strong></dd>
-				<dt>Afternoon: </dt>
-				<dd>Tour of <strong>RABAT</strong> from 2:00 pm to 5:00 pm - walking tour - visiting <strong>KASBAH AIT BEN HADDOU</strong>, a UNESCO World Heritage Site in the Atlas Mountains and explore this ancient <strong>kasbah</strong> village, perched on a rocky outcrop, offering stunning views across the High Atlas Mountains and a unique opportunity to experience traditional Berber culture.</dd>
-				<dt>6:00 pm: </dt>
-				<dd>Departure to <strong>OUARZAZETE</strong> dinner en route </dd>
-				<dt>Evening: </dt>
-				<dd>Rest</dd>
-				<dt>Overnight: </dt>
-				<dd>Hotel in <strong>OUARZAZETE</strong></dd>
-			</dl>
-		</div>
-
-		<h4>Day 2 <small>June 19th, OUARZAZETE - ZAGORA</small></h4>
-		<div class="container">
-			<dl class="dl-horizontal">
-				<dt>Prior 8:30 am: </dt>
-				<dd>Complementary breakfast at the hotel</dd>
-				<dt>8:45 am – 1:00 pm: </dt>
-				<dd>We plunge into our Saharan adventures from Ouarzazate by initially exploring the <strong>Skoura Oasis</strong>, known for its myriad of <strong>kasbahs</strong>, and the <strong>Valley of the Roses</strong>. Next is the impressive set of gorges- <strong>Dades and Todra</strong>. A trek into the dunes, complete with camel riding, is an unforgettable life experience! </dd>
-				<dt>6:00 pm:</dt>
-				<dd>Departure to <strong>ZAGORA</strong> dinner en route </dd>
-				<dt>Evening: </dt>
-				<dd>Rest</dd>
-				<dt>Overnight: </dt>
-				<dd>Hotel in <strong>ZAGORA</strong></dd>
-			</dl>
-		</div>
-
-		<h4>Day 3 <small>June 20th, ZAGORA - MARRAKECH </small></h4>
-		<div class="container">
-			<dl class="dl-horizontal">
-				<dt>Prior 7:30 am: </dt>
-				<dd>Complementary breakfast at the hotel</dd>
-				<dt>7:30 am: </dt>
-				<dd>Departure <strong>MARRAKECH</strong></dd>
-				<dt>8:45 am – 1:00 pm:</dt>
-				<dd>Cross the desert back to <strong>ZAGORA</strong> and enjoy a talk of the history of the Draa region, and visit local historical sites</dd>
-				<dt>6:00 pm: </dt>
-				<dd>Departure to <strong>MARRAKECH</strong></dd>
-				<dt>Evening: </dt>
-				<dd>in <strong>MARRAKECH</strong> / free</dd>
-				<dt>Overnight: </dt>
-				<dd>Hotel in <strong>MARRAKECH</strong></dd>
-			</dl>
-		</div>
-
-		<h4>Day 4 <small>June 21st, CASABLANCA or MARRAKECH AIRPORTS</small></h4>
-		<div class="container">
-			<dl class="dl-horizontal">
-				<dt>All day: </dt>
-				<dd>Transportation will be provided either to the Casablanca or Marrakech airports</dd>
-			</dl>
-		</div>
-		<h4>PROGRAM FEE:  <small>$ 550 single occupancy</small></h4>
-		<h4><em>Program fee includes:</em></h4>
-		<ul>
-  			<li>Unforgettable guided tour</li>
-  			<li>Lodging in Four Star hotels</li>
-  			<li>24-hour transportation throughout the trip in comfortable air conditioned minibus</li>
-  			<li>Cultural events, excursions, and experiences</li>
-  			<li>Complete breakfasts</li>
-		</ul>
-		<h4><em>Program fee does not include:</em></h4>
-		<ul>
-  			<li>Meals or beverages other than breakfasts </li>
-  			<li>Personal expenses including laundry, mini-bar charges, medicine or other personal needs, and telephone calls</li>
-  			<li>Any other item not listed under ‘Program fee includes’</li>
-		</ul>
-
-		<p><strong>For more information on how to participate, or for a complete itinerary, e-mail us at ....</strong></p>
-
-		<br />
-		<hr>
-		<hr>
-		<br />
-
-		<h2 id="AGADIR">2. Marrakech - Aessaouira - Agadir</h2>
+		<h2 id="AGADIR">1. Marrakech - Aessaouira - Agadir</h2>
 		<h3>Details:</h3>
 		<ul>
   			<li><strong>Duration:</strong> Three Day Trip</li>
@@ -215,7 +121,7 @@
 		<hr>
 		<br />
 
-		<h2 id="FEZ">3. Marrakech - Rabat - Fez</h2>
+		<h2 id="FEZ">2. Marrakech - Rabat - Fez</h2>
 		<h3>Details:</h3>
 		<ul>
   			<li><strong>Duration:</strong> Three Day Trip</li>
