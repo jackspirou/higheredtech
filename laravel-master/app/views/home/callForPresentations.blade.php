@@ -106,7 +106,7 @@
 
 		<div class="container text-center">
 			<p><strong>For more information about the conference please contact:</strong></p>
-			<p>Proposal Deadline is March 1, 2015</p>
+			<p>Proposal Deadline is March 1, 2015 (extended to April 1st, 2015)</p>
 		</div>
 
 	</div>
