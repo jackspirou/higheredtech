@@ -113,7 +113,7 @@
                   </li>
                 </ul>
               </li>
-              <li><a href="{{ asset('assets/docs/ICTHE_Conference_Program_June_1.pdf') }}">Program</a>
+              <li><a href="{{ asset('assets/docs/Conference_Program.pdf') }}">Program</a>
               </li>
             </ul>
 
@@ -135,7 +135,7 @@
                   {{ HTML::nav_link_a_route('location', 'About Marrakech' ) }}
                 </ul>
               </li>
-              <li><a href="{{ asset('assets/docs/ICTHE_Conference_Program_June_1.pdf') }}">Program</a>
+              <li><a href="{{ asset('assets/docs/Conference_Program.pdf') }}">Program</a>
               </li>
             </ul>
 
