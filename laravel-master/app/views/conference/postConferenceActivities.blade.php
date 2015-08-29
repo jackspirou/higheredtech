@@ -233,8 +233,6 @@
 
 -->
 
-		<p><strong>For more information on how to participate, or for a complete itinerary, e-mail us at ....</strong></p>
-
 	</div>
 
 </div>

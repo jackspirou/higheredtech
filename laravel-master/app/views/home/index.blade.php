@@ -179,10 +179,12 @@
 						<h2>Post Conference Activities</h2>
 						<br />
 						<p>
-							Leadership Institute participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Three additional excursions are provided to those who want to gain a deeper understating of Moroccan culture and society.  For more information...
+							Conference participants will have an opportunity to engage in various activities and excursions. An afternoon excursion of Marrakech is included at no additional cost. Other excursion opportunities will be announced.
 						</p>
 						<br />
+						<!--
 						<p><a class="btn btn-primary" href="{{ route('postConferenceActivities') }}">View details &raquo;</a></p>
+						-->
 					</div>
 				</div>
 			</div>
