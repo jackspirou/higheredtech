@@ -13,14 +13,15 @@
 
 		<div class="page-header text-center">
 
-			<h1>Post Conference Activites <br ><small>Two potential excursions...</small></h1>
+			<h1>Post Conference Activites</h1>
 
 		</div>
 
 		<img class="banner hidden-xs" src="{{ asset('assets/img/banners/adventure.jpg') }}" >
 
-		<p class="lead">Conference participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Two additional excursions are provided to those who want to gain a deeper understating of Moroccan culture and society.</p>
+		<p class="lead">Conference participants will have an opportunity to engage in various activities and excursions.  An <a href="{{ route('tours') }}">afternoon excursion of Marrakech</a> is included at no additional cost.  Other excursion opportunities will be announced.</p>
 
+<!--
 		<ol>
   			<li><a href="#AGADIR">MARRAKECH – AESSAOUIRA – AGADIR</a></li>
   			<li><a href="#FEZ">MARRAKECH – RABAT – FEZ</a></li>
@@ -229,6 +230,8 @@
   			<li>Personal expenses including laundry, mini-bar charges, medicine or other personal needs, and telephone calls</li>
   			<li>Any other item not listed under ‘Program fee includes’</li>
 		</ul>
+
+-->
 
 		<p><strong>For more information on how to participate, or for a complete itinerary, e-mail us at ....</strong></p>
 

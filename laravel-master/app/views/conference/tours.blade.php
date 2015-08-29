@@ -22,7 +22,7 @@
 		<br />
 
 		<h3>Schedule:</h3>
-		<h4>Day 1 <small>June 16, Minibus tour of MARRAKECH - From 4:00 pm to 7:00 pm</small></h4>
+		<h4>Day 1 <small>June 2, Minibus tour of MARRAKECH - From 4:00 pm to 7:00 pm</small></h4>
 		<div class="container">
 			<dl class="dl-horizontal">
 				<dt>4:00 pm: </dt>
@@ -40,7 +40,7 @@
 			</dl>
 		</div>
 
-		<h4>Day 2 <small>June 17, Walking tour of MARRAKECH - From 4:00 pm to 7:00 pm</small></h4>
+		<h4>Day 2 <small>June 3, Walking tour of MARRAKECH - From 4:00 pm to 7:00 pm</small></h4>
 		<div class="container">
 			<dl class="dl-horizontal">
 				<dt>4:00 pm: </dt>

@@ -13,7 +13,7 @@
 
 		<div class="page-header text-center">
 
-			<h1>Call For Presentations <br ><small>Deadline March 1st 2015</small></h1>
+			<h1>Call For Presentations <br ><small>Deadline March 1st 2016</small></h1>
 
 		</div>
 

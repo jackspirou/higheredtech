@@ -9,7 +9,8 @@
 	margin-bottom: 20px;
 
 	/* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
-	margin-top: -20px;
+	/* margin-top: -20px; */
+	margin-top: auto;
 }
 
 /* Since positioning the image, we need to help out the caption */
@@ -76,6 +77,14 @@
 @section('content')
 
 <div class="container-fluid">
+
+	<div class="container">
+		<div class="row text-center">
+			<div class="panel panel-default">
+				<h3><a href="{{ asset('assets/docs/Conference_2016_Long_Press_Release.pdf') }}">2016 Conference Press Release</a></h3>
+			</div>
+		</div>
+	</div>
 
 	<!-- Carousel -->
 	<div id="myCarousel" class="carousel slide hidden-xs" data-ride="carousel" data-interval="3000">
