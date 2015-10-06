@@ -118,7 +118,7 @@
 
             <ul style="display: inline-block;" class="nav nav-pills navbar-right">
               {{ HTML::nav_link_a_route('contact', 'Contact' ) }}
-              <li><a target="_blank" href="https://www.regonline.com/higheredtech">Register</a>
+              <li><a target="_blank" href="https://www.regonline.com/builder/site/?eventid=1761826">Register</a>
               </li>
             </ul>
           </div>
@@ -140,7 +140,7 @@
 
             <ul class="nav navbar-nav">
               {{ HTML::nav_link_a_route('contact', 'Contact' ) }}
-              <li><a target="_blank" href="https://www.regonline.com/higheredtech">Register</a>
+              <li><a target="_blank" href="https://www.regonline.com/builder/site/?eventid=1761826">Register</a>
               </li>
             </ul>
           </div>
