@@ -66,6 +66,61 @@
 <li>University of Tabuk, Saudi Arabia</li>
 <li><a href='#'>kbejjit@gmail.com</a></li>
 </ul>
+
+<ul class="list-unstyled">
+<li><strong>Dr Catherine Attard</strong></li>
+<li>Senior Lecturer, Mathematics Education</li>
+<li>Director, Education Knowledge Network</li>
+<li>Western Sydney University, Australia</li>
+</ul>
+
+<ul class="list-unstyled">
+<li><strong>Dr. Mobolaji E. Aluko</strong></li>
+<li>Professor of Chemical Engineering & Vice-Chancellor,</li>
+<li>Federal University Otuoke, Bayelsa State, Nigeria.</li>
+</ul>
+
+<ul class="list-unstyled">
+<li><strong>Mr. Maaroof Fakhri,</strong></li>
+<li>Science Communicator and Scientific Collaboration Specialist</li>
+<li>Labster Company</li>
+<li>Copenhagen, Denmark</li>
+</ul>
+
+<ul class="list-unstyled">
+<li><strong>Joy Kutaka-Kennedy, Ed. D.</strong></li>
+<li>Professor, Department of Special Education, School of Education</li>
+<li>Regional Lead Faculty, Special Education, San Jose Campus</li>
+<li>National University, San Jose, CA</li>
+</ul>
+
+<ul class="list-unstyled">
+<li><strong>Dr. Donna Shelton,</strong></li>
+<li>Professor of Spanish and Spanish Education Program Chair</li>
+<li>Northeastern State University</li>
+<li>Tahlequah, Oklahoma, USA</li>
+</ul>
+
+<ul class="list-unstyled">
+<li><strong>Mr. Rick Shelton</strong></li>
+<li>Northeastern State University</li>
+<li>Coordinator of Academic Services: Center for Teaching and Learning</li>
+<li>Instructor College of Education</li>
+</ul>
+
+<ul class="list-unstyled">
+<li><strong>Dr. Abdelmajid Bouzianne</strong></li>
+<li>Associate Dean</li>
+<li>Université Hassan II, Casablanca, Morocco</li>
+</ul>
+
+<ul class="list-unstyled">
+<li><strong>Dr. Christine Woods</strong></li>
+<li>Associate Professor</li>
+<li>Director of the Centre for Learning, Teaching and Development Affiliation: University of the Witwatersrand (Wits), South Africa</li>
+</ul>
+
+
 		</div>
 
 	</div>
