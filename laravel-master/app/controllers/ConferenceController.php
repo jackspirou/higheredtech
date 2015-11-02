@@ -114,7 +114,7 @@ class ConferenceController extends BaseController {
 	public function committee() {
 
 		// Set Page Title
-		$title = "Planning Committee";
+		$title = "Advisory Board";
 
 		// Set View Data
 		$data = array(

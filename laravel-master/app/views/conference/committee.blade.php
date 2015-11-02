@@ -13,7 +13,7 @@
 
 		<div class="page-header text-center">
 
-			<h1>Conference Planning Committee</h1>
+			<h1>Conference Advisory Board</h1>
 
 		</div>
 <!--

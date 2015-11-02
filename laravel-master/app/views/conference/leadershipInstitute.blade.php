@@ -19,7 +19,7 @@
 
 		<img class="banner hidden-xs" src="{{ asset('assets/img/banners/leadership.png') }}" >
 
-		<p class="lead">The <em>Conference Planning Committee</em> will be organizing a <em>Leadership Institute</em> for administators engaged in the advancement of technology on campus.  Participants will share presentations on various relevant subjects.</p>
+		<p class="lead">The <em>Conference Advisory Board</em> will be organizing a <em>Leadership Institute</em> for administators engaged in the advancement of technology on campus.  Participants will share presentations on various relevant subjects.</p>
 
 		<p>A call for presentations includes:</p>
 
@@ -33,7 +33,7 @@
 			<li>The role of mobile technologies in higher education</li>
 		</ul>
 
-		<p>Submitted proposals will be peer reviewed by the Conference Planning Committee for: </p>
+		<p>Submitted proposals will be peer reviewed by the Conference Advisory Board for: </p>
 
 		<ol>
 			<li>originality</li>

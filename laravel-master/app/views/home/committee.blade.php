@@ -13,7 +13,7 @@
 
 		<div class="page-header text-center">
 
-			<h1>Conference Planning Committee</h1>
+			<h1>Conference Advisory Board</h1>
 
 		</div>
 <!--
@@ -27,7 +27,7 @@
 				<li>Georgia College & State University</li>
 				<li><a href='#'>Larbi.Oukada@gcsu.edu</a></li>
 			</ul>
- 
+
 <ul class="list-unstyled">
 <li><strong>Costas Spirou, Conference Co-Chair</strong></li>
 <li>Professor and Chair</li>
@@ -35,7 +35,7 @@
 <li>Georgia College & State University</li>
 <li><a href='#'>Costas.Spirou@gcsu.edu</a></li>
 </ul>
- 
+
  <ul class="list-unstyled">
 <li><strong>Aran MacKinnon, Conference Program Chair</strong></li>
 <li>Professor and Chair</li>
@@ -43,14 +43,14 @@
 <li>Georgia College & State University</li>
 <li><a href='#'>Aran.Mackinnon@gcsu.edu</a></li>
 </ul>
- 
+
  <ul class="list-unstyled">
 <li><strong>Gonegai Abdelkader</strong> </li>
 <li>Professor and Dean</li>
 <li>Université Hassan II Casablanca</li>
 <li><a href='#'>agonegai@hotmail.com</a></li>
 </ul>
- 
+
 <ul class="list-unstyled">
 <li><strong>Nancy Nordmann</strong></li>
 <li>Professor</li>

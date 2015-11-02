@@ -19,7 +19,7 @@
 
 		<img class="banner hidden-xs" src="{{ asset('assets/img/banners/blackboard.jpg') }}" >
 
-		<p class="lead">The <em>Conference Planning Committee</em> is interested in receiving presentation proposals that address the use of technology in higher education.</p>
+		<p class="lead">The <em>Conference Advisory Board</em> is interested in receiving presentation proposals that address the use of technology in higher education.</p>
 		<!--
 		<p>What is the role and function of various types of technology infrastructure in the advancement of effective higher education teaching and learning practices? The technologies to be covered by the themes of this international Conference are, but not limited to, compressed audio/video, Internet, networks, satellite, mobile devices, MOOCs and other interactive delivery systems. Some of the tracks include:</p>
 
@@ -82,7 +82,7 @@
 			<li>Best mix of face-to-face and e-interactions</li>
 		</ul>
 
-		<p>Submitted proposals will be peer reviewed by the Conference Planning Committee for: </p>
+		<p>Submitted proposals will be peer reviewed by the Conference Advisory Board for: </p>
 
 		<ol>
 			<li>originality</li>

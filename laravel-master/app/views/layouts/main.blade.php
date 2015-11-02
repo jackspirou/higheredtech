@@ -85,7 +85,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">The Conference <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                {{ HTML::nav_link_a_route('conferenceOverview', 'Overview' ) }} {{ HTML::nav_link_a_route('submissionInformation', 'Submission Information' ) }} {{ HTML::nav_link_a_route('committee', 'Planning Committee' ) }} {{ HTML::nav_link_a_route('keyDates', 'Key Dates' ) }} {{ HTML::nav_link_a_route('registrationFees', 'Registration Fee' ) }}
+                {{ HTML::nav_link_a_route('conferenceOverview', 'Overview' ) }} {{ HTML::nav_link_a_route('submissionInformation', 'Submission Information' ) }} {{ HTML::nav_link_a_route('committee', 'Advisory Board' ) }} {{ HTML::nav_link_a_route('keyDates', 'Key Dates' ) }} {{ HTML::nav_link_a_route('registrationFees', 'Registration Fee' ) }}
                 <li><a target="_blank" href="http://www.elandalous-marrakech.com/html/en-index.php">Accommodations</a>
                 </li>
                 {{ HTML::nav_link_a_route('postConferenceActivities', 'Post Conference Activities' ) }}
