@@ -23,7 +23,7 @@
 					<td>All Presentation Proposals MUST be submitted</td>
 				</tr>
 				<tr>
-					<td><strong>March 20, 2016</strong></td>
+					<td><strong>April 20, 2016</strong></td>
 					<td>Notification of Accepted Proposals</td>
 				</tr>
 				<tr>
