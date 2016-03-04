@@ -57,7 +57,7 @@
 
 		<div class="container text-center">
 			<p><strong>For more information about the conference please contact:</strong></p>
-			<p>Proposal Deadline is March 1, 2016</p>
+			<p>Proposal Deadline is April 15, 2016</p>
 		</div>
 
 	</div>

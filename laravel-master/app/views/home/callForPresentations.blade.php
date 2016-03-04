@@ -13,7 +13,7 @@
 
 		<div class="page-header text-center">
 
-			<h1>Call For Presentations <br ><small>Deadline March 1st 2016</small></h1>
+			<h1>Call For Presentations <br ><small>Deadline April 15th 2016</small></h1>
 
 		</div>
 
@@ -106,7 +106,7 @@
 
 		<div class="container text-center">
 			<p><strong>For more information about the conference please contact:</strong></p>
-			<p>Proposal Deadline is March 1, 2015 (extended to April 1st, 2015)</p>
+			<p>Proposal Deadline is April 15, 2015 (extended to April 1st, 2015)</p>
 		</div>
 
 	</div>

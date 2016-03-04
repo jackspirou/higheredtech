@@ -42,7 +42,7 @@
 		</ul>
 
 		<h4 style="text-align: center;">All presenters must register and pay the conference registration fee.  Proposals will be reviewed by the Conference Program Committee  and will be acknowledged via email within 72 hours of arrival/receipt. </h4>
-		<h3 style="color: red; text-align: center;"><strong>The deadline for Proposal Submissions is March 1, 2015 </strong></h3>
+		<h3 style="color: red; text-align: center;"><strong>The deadline for Proposal Submissions is April 15, 2015 </strong></h3>
 
 	</div>
 
